@@ -1,5 +1,13 @@
 # Electoral-Bond-Scam
 
+Here, we have the preliminary analysis of the information released by State Bank of India on the electoral bonds, a donation scheme started by the current ggovernment of India. 
+
+## Overview
+
+1. [Findings](#findings)
+2. [Top Purchasers](#top-purchasers)
+3. [Top Purchasers By Month](#top-purchasers-monthly)
+
 ## Findings
 
  - Total Number of Purchased Bonds: 18871

@@ -7,6 +7,10 @@ Here, we have the preliminary analysis of the information released by State Bank
 1. [Findings](#findings)
 2. [Top Purchasers](#top-purchasers)
 3. [Top Purchasers By Month](#top-purchasers-monthly)
+4. [Future Gaming and Hotel](#future-gaming-and-hotel)
+5. [Megha Engineering](#megha-engineering)
+6. [Donation's Trends Over Time](#trends-over-time)
+7. [Comare Donations and Encashments](#monthly-donation-and-encashed)
 
 ## Findings
 
@@ -127,6 +131,10 @@ Here, we have the preliminary analysis of the information released by State Bank
 
 ### Political Party
 ![alt text](fig/image-2.png)
+
+## Monthly Donation and encashed
+
+Pie Charts showing top purchasers and encashers for all months.
 
 ![](fig/plot_2019_4.png)
 ![](fig/plot_2019_5.png)
